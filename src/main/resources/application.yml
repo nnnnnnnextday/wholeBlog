@@ -1,0 +1,16 @@
+spring:
+  thymeleaf:
+    mode: HTML
+  profiles:
+    active: dev
+  jpa:
+    properties:
+      hibernate:
+        format_sql: true
+
+
+
+
+
+
+comment.avatar: /images/avatar.jpg
